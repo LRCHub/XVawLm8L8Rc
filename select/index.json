@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "SOUTH WEST BEACH!!",
+  "base_artist": "WEST.",
+  "createdAt": "2025-12-16T15:19:27.786439Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SOUTH WEST BEACH!!",
+      "artist": "WEST.",
+      "has_synced": false,
+      "path": "select/pl_01_SOUTH_WEST_BEACH!!_WEST..txt"
+    }
+  ]
+}
